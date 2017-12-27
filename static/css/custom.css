@@ -1,0 +1,12 @@
+
+.og-fullimg img {
+  border: 2rem solid #fff;
+}
+
+.shadow {
+  -moz-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
+  -webkit-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
+  -o-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
+  -ms-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
+  box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45)
+}
