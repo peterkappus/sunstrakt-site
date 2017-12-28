@@ -90,7 +90,7 @@
 	width: 50%;
 	float: left;
 	height: 100%;
-	overflow: hidden;
+	/*overflow: hidden;*/
 	position: relative;
 }
 
@@ -191,5 +191,5 @@
 
 	.og-fullimg { display: none; }
 	.og-details { float: none; width: 100%; }
-	
+
 }

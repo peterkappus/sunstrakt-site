@@ -1,12 +1,45 @@
 
 .og-fullimg img {
   border: 2rem solid #fff;
+  box-shadow: 4px 4px 15px 0px rgba(0, 0, 0, 0.45)
 }
 
-.shadow {
+.og-details p {
+  color: #000;
+}
+
+a {
+  /*text-decoration: underline;*/
+  color: #009;
+  border-bottom: 1px solid #009;
+  padding-bottom: 0.05rem;
+}
+
+.og-fullimg {
+  /*overflow: auto !important;*/
+  padding: 10px;
+}
+
+.imgHolder {
+  /*width: 400px*/
+  display: inline;
+}
+
+.frame{
+  width: 400px;
+  height: 400px;
+  top: 0;
+  /*left: 0;*/
+  position: absolute;
   -moz-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
   -webkit-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
   -o-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
   -ms-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
   box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45)
 }
+/*  -moz-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
+  -webkit-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
+  -o-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
+  -ms-box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45);
+  box-shadow:inset 4px 4px 15px 0px rgba(0, 0, 0, 0.45)
+  */

@@ -14,9 +14,9 @@ publishdir = "public"
 [params]
     # Meta
     title = "Sunstrakt"
-    subtitle = "Get something beautiful."
+    subtitle = "Colorful, geometric, abstract sunsets.<br>Prints now available. For more info please [make contact](http://abstraktor.com/#contact)."
     author = "ABSTRAKTOR"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
+    description = "Sunstrakt - Colorful, geometric, abstract sunsets."
     keywords = "Abstract Art, color, posters, interior design, geomtric, minimalism."
 
     # Body background color
@@ -26,7 +26,7 @@ publishdir = "public"
     buttontext = ""
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    footertext = "&copy; 2018. Site template by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [Aerohub](https://github.com/aerohub)."
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']

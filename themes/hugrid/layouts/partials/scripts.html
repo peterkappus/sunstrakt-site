@@ -330,8 +330,12 @@
 								if( $img.attr( 'src' ) === self.$item.children('a').data( 'largesrc' ) ) {
 									self.$loading.hide();
 									self.$fullimage.find( 'img' ).remove();
+									self.$fullimage.find( '.imgHolder' ).remove();
 									self.$largeImg = $img.fadeIn( 350 );
-									self.$fullimage.append( self.$largeImg );
+									self.$fullimage.append('<div class="imgHolder"></div>');
+									//self.$fullimage.find( '.imgHolder' ).append( self.$largeImg ).append('<div class="frame"></div>');
+									self.$fullimage.find( '.imgHolder' ).append( self.$largeImg );
+									//self.$fullimage.append( self.$largeImg );
 								}
 							} ).attr( 'src', eldata.largesrc );
 						}
