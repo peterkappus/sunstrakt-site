@@ -41,11 +41,11 @@ eof
 
 items +=<<eof
 	[[items]]
-	title = "£19.95"
+	title = "£24.95"
 	image = "#{img_path}"
 	thumb = "#{thumb_path}"
 	alt = "Sunstrakt Print"
-	description = "Add a vibrant geometric punch of colour to any room. This is a beautiful 30cm (12\\") square archival ink-jet print on acid-free 310gsm fine-art paper.<br><br><br> <form action=\\"https://www.paypal.com/cgi-bin/webscr\\" method=\\"post\\" target=\\"_blank\\"> <input type=\\"hidden\\" name=\\"cmd\\" value=\\"_s-xclick\\"> <input type=\\"hidden\\" name=\\"hosted_button_id\\" value=\\"2V5M6DAWPFUD6\\"> <input type=\\"image\\" src=\\"https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif\\" border=\\"0\\" name=\\"submit\\" alt=\\"PayPal – The safer, easier way to pay online!\\"> <img alt=\\"\\" border=\\"0\\" src=\\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\\" width=\\"1\\" height=\\"1\\"> </form>"
+	description = "Add a vibrant geometric punch of colour to any room. This is a beautiful 30cm (12\\") square archival ink-jet print on acid-free 310gsm fine-art paper.<BR><BR>FREE shipping in Europe. <br><br><br> <form action=\\"https://www.paypal.com/cgi-bin/webscr\\" method=\\"post\\" target=\\"_blank\\"> <input type=\\"hidden\\" name=\\"cmd\\" value=\\"_s-xclick\\"> <input type=\\"hidden\\" name=\\"hosted_button_id\\" value=\\"2V5M6DAWPFUD6\\"> <table> <tr><td><input type=\\"hidden\\" name=\\"on0\\" value=\\"file\\"></td></tr><tr><td><input type=\\"hidden\\" name=\\"os0\\" maxlength=\\"200\\" value=\\"#{svg_path}\\"></td></tr> </table> <input type=\\"image\\" src=\\"https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif\\" border=\\"0\\" name=\\"submit\\" alt=\\"PayPal – The safer, easier way to pay online!\\"> <img alt=\\"\\" border=\\"0\\" src=\\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\\" width=\\"1\\" height=\\"1\\"> </form> "
 	url = ""
 eof
 
